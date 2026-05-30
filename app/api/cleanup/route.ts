@@ -1,6 +1,8 @@
+import { verifyAdminSession, unauthorizedResponse } from "@/lib/adminAuth";
 import { NextRequest, NextResponse } from "next/server";
 
 export async function POST(req: NextRequest) {
+  if (!verifyAdminSession(req)) return unauthorizedResponse()
   const apiKey = process.env.ANTHROPIC_API_KEY;
   if (!apiKey) {
     return NextResponse.json(

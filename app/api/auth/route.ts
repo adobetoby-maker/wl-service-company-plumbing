@@ -41,6 +41,7 @@ export async function POST(req: NextRequest) {
     "admin_user",
     JSON.stringify({ id: user.id, name: user.name, email: user.email, role: user.role }),
     {
+      httpOnly: true,  // prevent client JS from reading — use /api/auth/me for display
       secure: process.env.NODE_ENV === "production",
       sameSite: "lax",
       maxAge: 60 * 60 * 24 * 30,
