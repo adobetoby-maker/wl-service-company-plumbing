@@ -1,0 +1,10 @@
+[
+  {
+    "id": "da01b3600fee99a06877160b32924573",
+    "email": "adobetoby@gmail.com",
+    "name": "Toby",
+    "role": "super_admin",
+    "passwordHash": "71f777546906468ddbdceb58c9634263:bb8a566b1df729746333aace53d05c07b21f9e79345f6523d50d25ce01c547e77e17d9ca685636bf96e8f768f04900640f7519a0b28371b8a516f5dbb32953bd",
+    "createdAt": "2026-05-03T00:00:00.000Z"
+  }
+]

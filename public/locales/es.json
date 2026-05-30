@@ -1,0 +1,238 @@
+{
+  "shopInfo": {
+    "tagline": "Trabajo honesto, precios justos, hecho bien la primera vez.",
+    "description": "Sirviendo al centro de Twin Falls y Magic Valley por más de 13 años. Tratamos cada vehículo como si fuera el nuestro.",
+    "hours": {
+      "weekdays": "Lun–Sáb: 9:00 AM – 5:00 PM",
+      "sunday": "Cerrado",
+      "summary": "Lun–Sáb · 9 AM – 5 PM"
+    },
+    "services": [
+      "Cambios de Aceite",
+      "Servicio y Reparación de Frenos",
+      "Diagnóstico y Reparación de Motor",
+      "Servicio de Transmisión",
+      "Sistemas de AC y Calefacción",
+      "Servicio de Neumáticos y Alineación",
+      "Diagnóstico Eléctrico",
+      "Mantenimiento Preventivo"
+    ],
+    "about": "Junior's Auto Repair ha sido una piedra angular de la comunidad de Twin Falls por más de 13 años. Pablo Zaldivar y su familia se dedican a proporcionar reparación de autos honesta y confiable a precios justos — sin sorpresas en la factura, sin trabajo innecesario.",
+    "serviceArea": "Twin Falls, Jerome, Kimberly, Filer, Buhl, Hansen, Wendell, Gooding, Shoshone, Burley, Rupert, Hagerman — todo Magic Valley"
+  },
+  "hero": {
+    "badge": "El Taller de Reparación de Autos Más Confiable de Twin Falls",
+    "h1": {
+      "line1": "Tu Coche.",
+      "line2": "Reparado Bien.",
+      "line3": "Siempre."
+    },
+    "subtitle": "Pablo Zaldivar ha mantenido los vehículos de Magic Valley funcionando desde 2012. Diagnóstico honesto. Precios justos. Trabajo en el que puedes confiar.",
+    "cta": {
+      "book": "Reservar una Cita",
+      "portal": "Portal del Cliente"
+    },
+    "trust": {
+      "reviews": "146 Reseñas de Google",
+      "years": "13 Años · Magic Valley"
+    },
+    "scroll": "Desplázate",
+    "status": {
+      "open": "Abierto Ahora",
+      "closed": "Cerrado",
+      "closesAt5": "Cierra a las 5 PM",
+      "opensMon": "Abre el Lun · 9 AM",
+      "opensToday": "Abre hoy · 9 AM"
+    }
+  },
+  "services": {
+    "badge": "Lo Que Hacemos",
+    "h2": {
+      "line1": "Cada Servicio.",
+      "line2": "Hecho Bien."
+    },
+    "subtitle": "Desde un rápido cambio de aceite hasta una revisión completa del motor — el mismo cuidado, la misma honestidad, siempre.",
+    "cta": "Programar Tu Servicio",
+    "tapToLearnMore": "Toca para obtener más información",
+    "bookNow": "Reservar Ahora",
+    "items": [
+      {
+        "title": "Reparación General de Autos",
+        "desc": "Reparaciones de servicio completo en todas las marcas y modelos. Si está roto, lo reparamos bien la primera vez.",
+        "detail": "Diagnosticamos desde ruidos misteriosos hasta luces de advertencia — luego te damos una respuesta clara sobre lo que realmente necesita."
+      },
+      {
+        "title": "Cambios de Aceite",
+        "desc": "Cambios de aceite rápidos y asequibles con inspección completa del vehículo incluida siempre.",
+        "detail": "Convencional, mezcla sintética o totalmente sintético. Revisamos tus fluidos, filtros y presión de neumáticos mientras estamos en ello."
+      },
+      {
+        "title": "Servicio de Frenos",
+        "desc": "Pastillas, rotores, cilindros y fluido. Te mantenemos frenando de forma segura.",
+        "detail": "Medimos el grosor de tus rotores y probamos la humedad del fluido de freno antes de recomendar una sola pieza. Sin venta agresiva."
+      },
+      {
+        "title": "Transmisión",
+        "desc": "Diagnóstico y reparación de transmisión automática y manual.",
+        "detail": "Desde limpiezas de fluido hasta reconstrucciones completas — utilizamos procedimientos de especificación de fábrica y piezas de calidad en las que puede confiar."
+      },
+      {
+        "title": "Reparación de Motor",
+        "desc": "Desde afinaciones menores hasta reconstrucciones completas de motor — nos encargamos de todo.",
+        "detail": "Diagnósticos completos del motor con lecturas de datos en tiempo real. Reparamos la causa raíz, no solo el síntoma."
+      },
+      {
+        "title": "Alineación",
+        "desc": "La alineación adecuada extiende la vida de los neumáticos y mantiene su vehículo en línea recta.",
+        "detail": "Alineación computarizada de 4 ruedas. Ajustamos a especificación de fábrica e imprimimos su informe antes/después."
+      },
+      {
+        "title": "Sistema de Enfriamiento",
+        "desc": "Bomba de agua, termostato, correas y mangueras. Mantenga su motor frío.",
+        "detail": "Los veranos de Idaho son duros para los sistemas de enfriamiento. Realizamos pruebas de presión e inspección de todo el sistema, no solo de la pieza rota."
+      },
+      {
+        "title": "Bloqueo de Encendido",
+        "desc": "Instalación y servicio de dispositivo de bloqueo de encendido con licencia.",
+        "detail": "Instalación certificada por el estado. Trabajamos con todos los proveedores principales de dispositivos y manejamos todos los reportes requeridos."
+      }
+    ]
+  },
+  "about": {
+    "label": "Acerca de Pablo",
+    "h2": "Un Mecánico Que Trata Su Auto Como Si Fuera Suyo",
+    "p1": "Pablo Zaldivar ha estado reparando autos en Twin Falls desde 2012. Lo que comenzó como una pasión por hacer las cosas correctamente se ha convertido en uno de los talleres de reparación de autos más confiables del Magic Valley — Junior's Auto Repair, en el corazón del centro de la ciudad.",
+    "p2": "Pablo construyó su reputación en tres cosas: diagnóstico honesto, precios justos y garantía de su trabajo. No le recomendará una reparación que no necesite, y no le cobrará más de lo que cotizó.",
+    "p3": "Desde cambios de aceite hasta reconstrucciones de motor, desde autos de diario hasta camiones de trabajo — si entra a Junior's, sale funcionando correctamente.",
+    "tags": [
+      "Todas las Marcas y Modelos",
+      "Servicio el Mismo Día Disponible",
+      "Estimaciones Gratuitas",
+      "Con Licencia y Asegurado",
+      "Certificado en Bloqueo de Encendido"
+    ],
+    "stats": [
+      { "label": "Años en Operación" },
+      { "label": "Reseñas de 5 Estrellas" },
+      { "label": "Calificación Promedio" },
+      { "label": "Estimaciones Honestas" }
+    ],
+    "quote": {
+      "text": "Realiza trabajo confiable a precios razonables y siempre trabaja con usted.",
+      "attribution": "— Cliente de larga data, Google Reviews"
+    }
+  },
+  "reviews": {
+    "h2": "Lo Que Dicen Nuestros Clientes",
+    "subtitle": "Basado en reseñas de Google y Facebook",
+    "items": [
+      { "text": "Junior pudo acomodarme para reparaciones urgentes antes de un gran viaje de fin de semana. Bomba de agua, correa y termostato — todo hecho el mismo día. No podía creerlo. Nos salvó." },
+      { "text": "He estado yendo a Junior's durante algunos años. Muy satisfecho con cómo maneja su negocio. Trabajo confiable, precios razonables y siempre trabaja con usted." },
+      { "text": "Hace lo que dice que hará por el precio que dijo que lo haría. Solo eso lo pone muy por delante de todos los otros talleres a los que he ido en Twin Falls." },
+      { "text": "Pablo diagnosticó mi auto en 20 minutos. Otros talleres lo tuvieron dos días y aún no estaban seguros. Honesto, rápido y justo. Este es mi taller de ahora en adelante." },
+      { "text": "El mejor mecánico del Magic Valley, sin duda. Se enorgullece de su trabajo y se nota. Toda mi familia trae sus autos aquí ahora." },
+      { "text": "Llamé en pánico cuando mis frenos empezaron a chirriar. Pablo me atendió esa misma tarde. Profesional, rápido, y el precio fue exactamente lo que cotizó." }
+    ]
+  },
+  "contact": {
+    "h2": "Ponte en Contacto",
+    "subtitle": "Reserva una cita o envíanos un mensaje — te responderemos rápido.",
+    "shopInfo": "Información de la Tienda",
+    "address": { "label": "Dirección" },
+    "phone": { "label": "Teléfono" },
+    "hours": {
+      "label": "Horario",
+      "weekdays": "Lunes – Sábado: 9:00 AM – 5:00 PM",
+      "sunday": "Domingo: Cerrado"
+    },
+    "facebook": { "label": "Facebook" },
+    "bookAppointment": "Reservar una Cita",
+    "form": {
+      "name": "Su Nombre *",
+      "phone": "Teléfono *",
+      "email": "Correo Electrónico",
+      "vehicle": "Vehículo (Año / Marca / Modelo)",
+      "message": "¿Qué está pasando? *",
+      "submit": "Enviar Mensaje"
+    },
+    "sent": {
+      "title": "¡Mensaje Enviado!",
+      "text": "Te llamaremos en las próximas horas para confirmar tu cita."
+    }
+  },
+  "footer": {
+    "description": "Reparación honesta de automóviles en el centro de Twin Falls, Idaho. Sirviendo a Magic Valley desde 2012.",
+    "services": {
+      "header": "Servicios",
+      "items": ["Cambios de Aceite", "Servicio de Frenos", "Reparación de Transmisión", "Reparación de Motor", "Alineación", "Bloqueo de Encendido"]
+    },
+    "quickLinks": {
+      "header": "Enlaces Rápidos",
+      "about": "Acerca de Pablo",
+      "reviews": "Reseñas",
+      "articles": "Artículos",
+      "portal": "Portal del Cliente",
+      "book": "Reservar Cita"
+    },
+    "contact": { "header": "Contacto" },
+    "hours": {
+      "weekdays": "Lun–Sáb: 9:00 AM – 5:00 PM",
+      "sunday": "Domingo: Cerrado"
+    }
+  },
+  "navbar": {
+    "services": "Servicios",
+    "about": "Acerca De",
+    "reviews": "Reseñas",
+    "articles": "Artículos",
+    "howto": "Cómo Hacer",
+    "story": "Nuestra Historia",
+    "contact": "Contacto",
+    "portal": "Portal del Cliente",
+    "book": "Reservar Cita"
+  },
+  "chatbot": {
+    "header": "Asistente de Junior",
+    "online": "En Línea",
+    "aiPowered": "Impulsado por IA",
+    "placeholder": "Haz una pregunta…",
+    "welcome": "¡Hola! Soy el asistente virtual de Junior. 👋 Puedo responder preguntas sobre nuestros servicios, horarios, precios y más.\n\n¿Cómo puedo ayudarte hoy?",
+    "quickReplies": [
+      "¿Cuál es su horario?",
+      "¿Dónde están ubicados?",
+      "¿Qué reparan?",
+      "¿Cuánto cuesta un cambio de aceite?",
+      "¿Aceptan clientes sin cita?",
+      "Mi luz de verificación del motor está encendida"
+    ],
+    "responses": {
+      "hours": "Estamos abiertos de lunes a sábado, de 9 AM a 5 PM. Estamos cerrados los domingos.\n\n¿Necesitas pasar? ¡Llámanos primero y estaremos listos para ti!",
+      "location": "Estamos en **417 Main Ave E** en el centro de Twin Falls — fácil de encontrar, en el corazón de la ciudad.\n\nServimos a todo Magic Valley, ¡así que no dudes en venir!",
+      "phone": "Puedes comunicarte directamente al **(208) 595-2101**.\n\nEstamos disponibles de lunes a sábado, de 9 AM a 5 PM. ¡Nos encantaría ayudarte!",
+      "services": "Manejamos una amplia gama de reparación de automóviles:\n• Cambios de aceite y fluidos\n• Servicio y reparación de frenos\n• Diagnóstico y reparación de motor\n• Servicio de transmisión\n• Sistemas de aire acondicionado y calefacción\n• Neumáticos y alineación\n• Diagnóstico eléctrico\n\n¿No estás seguro si cubrimos tu problema? ¡Solo llama!",
+      "oil": "¡Sí, los cambios de aceite son uno de nuestros servicios más populares! Usamos aceite y filtros de calidad e hacemos una inspección completa mientras estamos en ello.\n\n¡Se aceptan clientes sin cita previa — ven cuando quieras de lunes a sábado de 9 a 5!",
+      "brakes": "Los problemas de frenos son serios — nos los tomamos en serio. Serviciamos todo: pastillas, rotores, calibradores y líneas de freno.\n\nSi tus frenos chirrian o rechinan, no esperes. ¡Llámanos hoy!",
+      "transmission": "¡Sí, trabajamos en transmisiones! Ya sea que cambien mal, patinen o tengan fugas, podemos diagnosticarlo.\n\nTráelo y te diremos exactamente qué está pasando antes de que comience cualquier trabajo.",
+      "ac": "Sí — serviciamos sistemas de AC y calefacción. Ya sea que tu AC esté soplando aire caliente o tu calefactor no funcione, podemos diagnosticarlo y repararlo.\n\n¡Llámanos para programar una hora para venir!",
+      "engine": "Hacemos diagnósticos completos del motor. Esa luz de verificación del motor podría ser desde una tapa de gasolina suelta hasta un problema de sensor o algo más serio.\n\nTráelo — conectaremos nuestro escáner y te diremos exactamente qué está pasando.",
+      "tires": "Nos encargamos de rotaciones de llantas, balanceo y alineación de ruedas. El cuidado adecuado de las llantas extiende su vida útil y mantiene tu vehículo manejando de forma segura.\n\n¡Pasa por aquí o llámanos para verificar disponibilidad!",
+      "pricing": "Nuestros precios son honestos y transparentes — sin cuotas ocultas, sin ventas innecesarias. Cada trabajo es diferente, así que no podemos cotizar precios exactos sin ver el vehículo.\n\nSiempre explicamos los costos antes de comenzar el trabajo. Llámanos y describe el problema — ¡te daremos una estimación aproximada!",
+      "book": "¡Nos encantaría ver tu vehículo! La forma más fácil es llamarnos al **(208) 595-2101** para fijar una hora.\n\n¡También se aceptan clientes sin cita previa — simplemente ven de lunes a sábado, 9 AM – 5 PM!",
+      "emergency": "Oh no — ¡lo siento mucho! Tu seguridad es lo primero.\n\nLlámanos inmediatamente al **(208) 595-2101** y te ayudaremos a determinar los próximos pasos. Si necesitas una grúa, podemos conectarte con servicios de grúa locales que llevan vehículos directamente a nuestro taller.",
+      "reviews": "Estamos orgullosos de nuestra calificación de **4.8 estrellas** en 146 reseñas — ganada en 13 años de trabajo honesto.\n\nPablo y su familia tratan a cada cliente como a un vecino. Así es como lo hacemos.",
+      "payment": "Aceptamos efectivo, tarjetas de crédito y tarjetas de débito. Nunca queremos que el pago sea un obstáculo para que conduzcas de forma segura.\n\n¿Preguntas? ¡Llámanos!",
+      "wait": "¡Depende de la reparación! Los cambios de aceite y servicios menores a menudo se hacen el mismo día. Los trabajos más grandes u órdenes de piezas pueden tomar un día o dos.\n\nSiempre llamamos cuando tu vehículo está listo y te mantenemos informado. ¡Llámanos para una mejor estimación sobre tu situación específica!",
+      "warranty": "Respaldamos nuestro trabajo. Si algo no está bien después de una reparación, tráelo y lo arreglaremos — sin complicaciones.\n\nEstamos construyendo relaciones a largo plazo, no solo reparando autos una vez.",
+      "area": "¡Servimos a todo Magic Valley! Clientes vienen a nosotros desde Jerome, Kimberly, Filer, Buhl y más allá.\n\nEstamos ubicados centralmente en Twin Falls en 417 Main Ave E — fácil de alcanzar desde cualquier parte del valle.",
+      "fallback": "¡Gran pregunta! Para una respuesta más precisa, tu mejor opción es llamar directamente a Pablo al **(208) 595-2101**.\n\n¡Nuestro equipo está feliz de ayudarte con cualquier cosa sobre tu vehículo!",
+      "errorFallback": "¡Lo siento, tuve un problema! Para ayuda rápida, llámanos al **(208) 595-2101**."
+    },
+    "actions": {
+      "callUs": "Llámanos",
+      "callNow": "Llamar Ahora",
+      "callToBook": "Llamar para Reservar",
+      "callNowHelp": "Llamar Ahora — Podemos Ayudarte",
+      "getDirections": "Obtener Direcciones"
+    }
+  }
+}

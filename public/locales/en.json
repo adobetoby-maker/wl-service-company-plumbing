@@ -1,0 +1,238 @@
+{
+  "shopInfo": {
+    "tagline": "Honest work, fair prices, done right the first time.",
+    "description": "Serving downtown Twin Falls and the Magic Valley for over 13 years. We treat every vehicle like it's our own.",
+    "hours": {
+      "weekdays": "Mon–Sat: 9:00 AM – 5:00 PM",
+      "sunday": "Closed",
+      "summary": "Mon–Sat · 9 AM – 5 PM"
+    },
+    "services": [
+      "Oil Changes",
+      "Brake Service & Repair",
+      "Engine Diagnostics & Repair",
+      "Transmission Service",
+      "AC & Heating Systems",
+      "Tire Service & Alignment",
+      "Electrical Diagnostics",
+      "Preventive Maintenance"
+    ],
+    "about": "Junior's Auto Repair has been a cornerstone of the Twin Falls community for over 13 years. Pablo Zaldivar and his family are dedicated to providing honest, reliable auto repair at fair prices — no surprise fees, no unnecessary work.",
+    "serviceArea": "Twin Falls, Jerome, Kimberly, Filer, Buhl, Hansen, Wendell, Gooding, Shoshone, Burley, Rupert, Hagerman — all of Magic Valley"
+  },
+  "hero": {
+    "badge": "Twin Falls' Most Trusted Auto Repair",
+    "h1": {
+      "line1": "Your Car.",
+      "line2": "Fixed Right.",
+      "line3": "Every Time."
+    },
+    "subtitle": "Pablo Zaldivar has been keeping Magic Valley vehicles running since 2012. Honest diagnosis. Fair prices. Work you can trust.",
+    "cta": {
+      "book": "Book an Appointment",
+      "portal": "Customer Portal"
+    },
+    "trust": {
+      "reviews": "146 Google Reviews",
+      "years": "13 Years · Magic Valley"
+    },
+    "scroll": "Scroll",
+    "status": {
+      "open": "Open Now",
+      "closed": "Closed",
+      "closesAt5": "Closes at 5 PM",
+      "opensMon": "Opens Mon · 9 AM",
+      "opensToday": "Opens today · 9 AM"
+    }
+  },
+  "services": {
+    "badge": "What We Do",
+    "h2": {
+      "line1": "Every Service.",
+      "line2": "Done Right."
+    },
+    "subtitle": "From a quick oil change to a full engine overhaul — same care, same honesty, every time.",
+    "cta": "Schedule Your Service",
+    "tapToLearnMore": "Tap to learn more",
+    "bookNow": "Book Now",
+    "items": [
+      {
+        "title": "General Auto Repair",
+        "desc": "Full-service repairs on all makes and models. If it's broken, we fix it right the first time.",
+        "detail": "We diagnose everything from mystery noises to warning lights — then give you a straight answer on what it actually needs."
+      },
+      {
+        "title": "Oil Changes",
+        "desc": "Fast, affordable oil changes with a full vehicle inspection included every time.",
+        "detail": "Conventional, synthetic blend, or full synthetic. We check your fluids, filters, and tire pressure while we're at it."
+      },
+      {
+        "title": "Brake Service",
+        "desc": "Pads, rotors, calipers, and fluid. We keep you stopping safely.",
+        "detail": "We measure your rotor thickness and test brake fluid moisture before recommending a single part. No upselling."
+      },
+      {
+        "title": "Transmission",
+        "desc": "Automatic and manual transmission diagnosis and repair.",
+        "detail": "From fluid flushes to full rebuilds — we use factory spec procedures and quality parts you can count on."
+      },
+      {
+        "title": "Engine Repair",
+        "desc": "Minor tune-ups to full engine rebuilds — we handle it all.",
+        "detail": "Complete engine diagnostics with live data readouts. We fix the root cause, not just the symptom."
+      },
+      {
+        "title": "Alignment",
+        "desc": "Proper alignment extends tire life and keeps your vehicle tracking straight.",
+        "detail": "4-wheel computerized alignment. We adjust to factory spec and print your before/after report."
+      },
+      {
+        "title": "Cooling System",
+        "desc": "Water pump, thermostat, belts, and hoses. Keep your engine cool.",
+        "detail": "Idaho summers are brutal on cooling systems. We pressure-test and inspect the whole system, not just the broken part."
+      },
+      {
+        "title": "Ignition Interlock",
+        "desc": "Licensed ignition interlock device installation and servicing.",
+        "detail": "State-certified installation. We work with all major IID providers and handle all required reporting."
+      }
+    ]
+  },
+  "about": {
+    "label": "About Pablo",
+    "h2": "A Mechanic Who Treats Your Car Like His Own",
+    "p1": "Pablo Zaldivar has been turning wrenches in Twin Falls since 2012. What started as a passion for fixing things the right way has grown into one of the Magic Valley's most trusted auto repair shops — Junior's Auto Repair, right in the heart of downtown.",
+    "p2": "Pablo built his reputation on three things: honest diagnosis, fair pricing, and standing behind his work. He won't recommend a repair you don't need, and he won't charge you more than he quoted.",
+    "p3": "From oil changes to engine rebuilds, from daily drivers to work trucks — if it rolls into Junior's, it leaves running right.",
+    "tags": [
+      "All Makes & Models",
+      "Same-Day Service Available",
+      "Free Estimates",
+      "Licensed & Insured",
+      "Ignition Interlock Certified"
+    ],
+    "stats": [
+      { "label": "Years in Business" },
+      { "label": "5-Star Reviews" },
+      { "label": "Average Rating" },
+      { "label": "Honest Estimates" }
+    ],
+    "quote": {
+      "text": "He does reliable work at reasonable prices and always works with you.",
+      "attribution": "— Long-time customer, Google Reviews"
+    }
+  },
+  "reviews": {
+    "h2": "What Our Customers Say",
+    "subtitle": "Based on Google & Facebook reviews",
+    "items": [
+      { "text": "Junior was able to squeeze me in for urgent repairs before a big weekend trip. Water pump, belt, and thermostat — all done same day. Couldn't believe it. Saved us." },
+      { "text": "I've been going to Junior's for a few years now. Extremely content with how he runs his business. Reliable work, reasonable prices, and always works with you." },
+      { "text": "Does what he said he would do for the price he said he would do it. That alone puts him miles ahead of every other shop I've been to in Twin Falls." },
+      { "text": "Pablo diagnosed my car in 20 minutes. Other shops had it for two days and still weren't sure. Honest, fast, and fair. This is my shop from now on." },
+      { "text": "Best mechanic in the Magic Valley, no question. He takes pride in his work and it shows. My whole family brings their cars here now." },
+      { "text": "Called in a panic when my brakes started grinding. Pablo got me in the same afternoon. Professional, quick, and the price was exactly what he quoted." }
+    ]
+  },
+  "contact": {
+    "h2": "Get in Touch",
+    "subtitle": "Book an appointment or drop us a message — we'll get back to you fast.",
+    "shopInfo": "Shop Information",
+    "address": { "label": "Address" },
+    "phone": { "label": "Phone" },
+    "hours": {
+      "label": "Hours",
+      "weekdays": "Monday – Saturday: 9:00 AM – 5:00 PM",
+      "sunday": "Sunday: Closed"
+    },
+    "facebook": { "label": "Facebook" },
+    "bookAppointment": "Book an Appointment",
+    "form": {
+      "name": "Your Name *",
+      "phone": "Phone *",
+      "email": "Email",
+      "vehicle": "Vehicle (Year / Make / Model)",
+      "message": "What's going on? *",
+      "submit": "Send Message"
+    },
+    "sent": {
+      "title": "Message Sent!",
+      "text": "We'll give you a call back within a few hours to confirm your appointment."
+    }
+  },
+  "footer": {
+    "description": "Honest auto repair in downtown Twin Falls, Idaho. Serving the Magic Valley since 2012.",
+    "services": {
+      "header": "Services",
+      "items": ["Oil Changes", "Brake Service", "Transmission Repair", "Engine Repair", "Alignment", "Ignition Interlock"]
+    },
+    "quickLinks": {
+      "header": "Quick Links",
+      "about": "About Pablo",
+      "reviews": "Reviews",
+      "articles": "Articles",
+      "portal": "Customer Portal",
+      "book": "Book Appointment"
+    },
+    "contact": { "header": "Contact" },
+    "hours": {
+      "weekdays": "Mon–Sat: 9:00 AM – 5:00 PM",
+      "sunday": "Sunday: Closed"
+    }
+  },
+  "navbar": {
+    "services": "Services",
+    "about": "About",
+    "reviews": "Reviews",
+    "articles": "Articles",
+    "howto": "How-To",
+    "story": "Our Story",
+    "contact": "Contact",
+    "portal": "Customer Portal",
+    "book": "Book Appointment"
+  },
+  "chatbot": {
+    "header": "Junior's Assistant",
+    "online": "Online",
+    "aiPowered": "AI-powered",
+    "placeholder": "Ask a question…",
+    "welcome": "Hi! I'm Junior's virtual assistant. 👋 I can answer questions about our services, hours, pricing, and more.\n\nWhat can I help you with today?",
+    "quickReplies": [
+      "What are your hours?",
+      "Where are you located?",
+      "What do you fix?",
+      "How much does an oil change cost?",
+      "Do you take walk-ins?",
+      "My check engine light is on"
+    ],
+    "responses": {
+      "hours": "We're open **Monday through Saturday, 9 AM – 5 PM**. We're closed on Sundays.\n\nNeed to stop by? Give us a call first and we'll be ready for you!",
+      "location": "We're at **417 Main Ave E** in downtown Twin Falls — easy to find, right in the heart of the city.\n\nWe serve all of Magic Valley, so don't hesitate to make the drive!",
+      "phone": "You can reach us directly at **(208) 595-2101**.\n\nWe're available Monday–Saturday, 9 AM – 5 PM. We'd love to help!",
+      "services": "We handle a full range of auto repair:\n• Oil changes & fluids\n• Brake service & repair\n• Engine diagnostics & repair\n• Transmission service\n• AC & heating systems\n• Tires & alignment\n• Electrical diagnostics\n\nNot sure if we cover your issue? Just call!",
+      "oil": "Yes, oil changes are one of our most popular services! We use quality oil and filters and do a full inspection while we're at it.\n\nWalk-ins welcome — stop by anytime Mon–Sat 9–5!",
+      "brakes": "Brake problems are serious — we take them seriously. We service everything: pads, rotors, calipers, and brake lines.\n\nIf your brakes are squealing or grinding, don't wait. Give us a call today!",
+      "transmission": "Yes, we work on transmissions! Whether it's shifting rough, slipping, or leaking, we can diagnose it.\n\nBring it in and we'll tell you exactly what's going on before any work starts.",
+      "ac": "Yes — we service AC and heating systems. Whether your AC is blowing hot air or your heater isn't working, we can diagnose and repair it.\n\nCall us to schedule a time to come in!",
+      "engine": "We do full engine diagnostics. That check engine light could be anything from a loose gas cap to a sensor issue to something more serious.\n\nBring it in — we'll plug in our scanner and tell you exactly what's going on.",
+      "tires": "We handle tire rotations, balancing, and wheel alignment. Proper tire care extends the life of your tires and keeps your vehicle handling safely.\n\nSwing by or give us a call to check availability!",
+      "pricing": "Our pricing is honest and transparent — no surprise fees, no unnecessary upsells. Every job is different, so we can't quote exact prices without seeing the vehicle.\n\nWe always explain costs before starting work. Call us and describe the issue — we'll give you a ballpark!",
+      "book": "We'd love to see your vehicle! The easiest way is to give us a call at **(208) 595-2101** to set a time.\n\nWalk-ins are welcome too — just come by Monday–Saturday, 9 AM – 5 PM!",
+      "emergency": "Oh no — sorry to hear that! Your safety comes first.\n\nCall us immediately at **(208) 595-2101** and we'll help figure out next steps. If you need a tow, we can connect you with local towing that brings vehicles straight to our shop.",
+      "reviews": "We're proud of our **4.8-star rating** across 146 reviews — earned over 13 years of honest work.\n\nPablo and his family treat every customer like a neighbor. That's just how we do it.",
+      "payment": "We accept cash, credit cards, and debit cards. We never want payment to get in the way of you driving safely.\n\nHave questions? Give us a call!",
+      "wait": "It depends on the repair! Oil changes and minor services are often same-day. Bigger jobs or parts orders may take a day or two.\n\nWe always call when your vehicle is ready and keep you in the loop. Call us for a better estimate on your specific situation!",
+      "warranty": "We stand behind our work. If something isn't right after a repair, bring it back and we'll make it right — no hassle.\n\nWe're building long-term relationships, not just fixing cars once.",
+      "area": "We serve all of Magic Valley! Customers come to us from Jerome, Kimberly, Filer, Buhl, and beyond.\n\nWe're centrally located in Twin Falls at 417 Main Ave E — easy to reach from anywhere in the valley.",
+      "fallback": "Great question! For the most accurate answer, your best bet is to give Pablo a call directly at **(208) 595-2101**.\n\nOur team is happy to help with anything about your vehicle!",
+      "errorFallback": "Sorry, I had a hiccup! For the fastest help, call us at **(208) 595-2101**."
+    },
+    "actions": {
+      "callUs": "Call Us",
+      "callNow": "Call Now",
+      "callToBook": "Call to Book",
+      "callNowHelp": "Call Now — We Can Help",
+      "getDirections": "Get Directions"
+    }
+  }
+}
